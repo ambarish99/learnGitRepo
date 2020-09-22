@@ -1,2 +1,2 @@
 # learnGitRepo
-This is to lean git and github
+This is to learn git and github
